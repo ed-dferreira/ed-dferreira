@@ -1,5 +1,10 @@
 # Eduardo Ferreira
-## Desenvolvedor mobile 
+
+### Desenvolvedor mobile 
+
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Ferreira-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-ferreira-98134b2a6)](https://www.linkedin.com/in/eduardo-ferreira-98134b2a6)
+[![Gmail Badge](https://img.shields.io/badge/-eduardoodferreiradev@gmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eduardoodferreiradev@gmail.com)](mailto:eduardoodferreiradev@gmail.com)
+
 (vou escrever algo mais elaborado logo logo)
 
 <div>
@@ -14,12 +19,6 @@
 </div>
 
 ##
-
-<div
-<a href="https://www.linkedin.com/in/eduardo-ferreira-98134b2a6/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>                                                                                                      
-</div>
 
 - 🔭 Por enquanto apenas estudo e planejo projetos pessoais
 - 🌱 Atualmente estou estudando Flutter
