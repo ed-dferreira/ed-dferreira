@@ -1,5 +1,6 @@
-# 👋 Hello! Welcome to my Github profile
-## My name is Eduardo Ferreira and my nickname is Ed
+# Eduardo Ferreira
+## Desenvolvedor mobile 
+(vou escrever algo mais elaborado logo logo)
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ed-dferreira&show_icons=true&theme=merko&include_all_commits&count_private=true"/>
@@ -20,6 +21,6 @@
 </a>                                                                                                      
 </div>
 
-- 🔭 For now I just study and plan personal projects
-- 🌱 I am currently studying Flutter
-- 📫 Contact me at email: eduardoodferreiradev@gmail.com
+- 🔭 Por enquanto apenas estudo e planejo projetos pessoais
+- 🌱 Atualmente estou estudando Flutter
+- 📫 Contate-me no email: eduardoodferreiradev@gmail.com
