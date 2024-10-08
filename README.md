@@ -19,6 +19,7 @@
 </a>                                                                                                      
 </div>
 
+![snake animation](https://github.com/ed-dferreira/ed-dferreira/blob/output/github-contribution-grid-snake.svg)
 
 
 - 🔭 Por enquanto apenas estudo e planejo projetos pessoais
