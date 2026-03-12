@@ -21,5 +21,5 @@
 ##
 
 - 🔭 Por enquanto apenas estudo e planejo projetos pessoais
-- 🌱 Atualmente estou estudando Flutter
+- 🌱 Atualmente estou estudando Kotlin e Arquitetura
 - 📫 Contate-me no email: eduardoodferreiradev@gmail.com
